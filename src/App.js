@@ -10,6 +10,7 @@ function App() {
         <p>
           Test <code>Create React App</code> runned via Github actions. KVtofan
         </p>
+        <p>Test autodeploy</p>
         <a
           className="App-link"
           href="https://reactjs.org"
